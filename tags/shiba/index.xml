@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiba on 阿柴的家</title>
+    <link>https://gh0077.github.io/tags/shiba/</link>
+    <description>Recent content in Shiba on 阿柴的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://gh0077.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>https://gh0077.github.io/blog/test/</link>
+      <pubDate>Thu, 16 Apr 2020 21:30:00 +0800</pubDate>
+      
+      <guid>https://gh0077.github.io/blog/test/</guid>
+      <description>\
+We’ve opened a notice and comment period (made pull requests in github/site-policy) for our Terms of Service, Privacy Statement, and other policies.</description>
+    </item>
+    
+  </channel>
+</rss>
