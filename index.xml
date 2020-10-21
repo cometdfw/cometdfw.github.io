@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阿柴的家</title>
-    <link>https://gh0077.github.io/</link>
+    <link>https://cometdfw.github.io/</link>
     <description>Recent content on 阿柴的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://gh0077.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://cometdfw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿柴的第一篇文章</title>
-      <link>https://gh0077.github.io/blog/test/</link>
+      <link>https://cometdfw.github.io/blog/test/</link>
       <pubDate>Thu, 16 Apr 2020 21:30:00 +0800</pubDate>
       
-      <guid>https://gh0077.github.io/blog/test/</guid>
+      <guid>https://cometdfw.github.io/blog/test/</guid>
       <description>\
 We’ve opened a notice and comment period (made pull requests in github/site-policy) for our Terms of Service, Privacy Statement, and other policies.</description>
     </item>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://gh0077.github.io/blog/post-13/</link>
+      <link>https://cometdfw.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://gh0077.github.io/blog/post-13/</guid>
+      <guid>https://cometdfw.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     

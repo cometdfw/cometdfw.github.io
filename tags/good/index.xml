@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Good on 阿柴的家</title>
-    <link>https://gh0077.github.io/tags/good/</link>
+    <link>https://cometdfw.github.io/tags/good/</link>
     <description>Recent content in Good on 阿柴的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://gh0077.github.io/tags/good/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://cometdfw.github.io/tags/good/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿柴的第一篇文章</title>
-      <link>https://gh0077.github.io/blog/test/</link>
+      <link>https://cometdfw.github.io/blog/test/</link>
       <pubDate>Thu, 16 Apr 2020 21:30:00 +0800</pubDate>
       
-      <guid>https://gh0077.github.io/blog/test/</guid>
+      <guid>https://cometdfw.github.io/blog/test/</guid>
       <description>\
 We’ve opened a notice and comment period (made pull requests in github/site-policy) for our Terms of Service, Privacy Statement, and other policies.</description>
     </item>
